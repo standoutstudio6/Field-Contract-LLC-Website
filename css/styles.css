@@ -1,0 +1,5 @@
+html { scroll-behavior: smooth; }
+.glass { background: rgba(255,255,255,0.7); backdrop-filter: blur(6px); }
+.shadow-soft { box-shadow: 0 8px 30px rgba(0,0,0,.08); }
+/* Lightbox toggle */
+.lightbox.open { display: flex; }
